@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.sh4008.kpweb2">
+	<logger name="weibo4j">
 		<level value="debug" />
 	</logger>
 	

@@ -1,0 +1,1 @@
+mvn -DaltDeploymentRepository=snapshot-repo::default::file:../ph-mvnrepos/releases clean deploy
